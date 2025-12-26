@@ -289,9 +289,6 @@ Admin panelinden her buton için:
   ]
 }
 ```
-
-## 🚀 Deployment
-
 ## 🔒 Güvenlik
 
 - Admin paneli şifre korumalıdır
