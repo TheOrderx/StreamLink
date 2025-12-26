@@ -28,7 +28,7 @@ Modern, responsive ve şık bir Linktree tarzı profil sitesi. YouTube ve Kick c
 ### 1. Projeyi Klonlayın
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/TheOrderx/StreamLink/tree/main)
 cd ste
 ```
 
