@@ -292,24 +292,6 @@ Admin panelinden her buton için:
 
 ## 🚀 Deployment
 
-### Vercel (Önerilen)
-
-1. GitHub'a push yapın
-2. [Vercel](https://vercel.com) hesabı oluşturun
-3. Yeni proje oluşturun ve GitHub repo'nuzu bağlayın
-4. Environment variables ekleyin:
-   - `NEXT_PUBLIC_ADMIN_PASSWORD`
-   - `YOUTUBE_API_KEY` (opsiyonel)
-5. Deploy edin
-
-### Diğer Platformlar
-
-Next.js uyumlu herhangi bir platformda deploy edebilirsiniz:
-- Netlify
-- Railway
-- Render
-- DigitalOcean App Platform
-
 ## 🔒 Güvenlik
 
 - Admin paneli şifre korumalıdır
