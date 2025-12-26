@@ -54,7 +54,7 @@ Sonra `.env.local` dosyasını düzenleyin:
 
 ```bash
 # Admin Panel Şifresi
-NEXT_PUBLIC_ADMIN_PASSWORD=test123
+NEXT_PUBLIC_ADMIN_PASSWORD=1234567
 
 # YouTube API Key (Video bilgileri için - opsiyonel)
 # Canlı yayın kontrolü API kullanmaz, bu yüzden zorunlu değildir.
@@ -130,7 +130,7 @@ ste/
 
 1. Tarayıcınızda `/admin` adresine gidin
 2. Şifre: `.env.local` dosyasındaki `NEXT_PUBLIC_ADMIN_PASSWORD` değeri
-3. Varsayılan şifre: `test123`
+3. Varsayılan şifre: `1234567`
 4. İlk girişten sonra şifrenizi değiştirmeniz önerilir (Güvenlik menüsü)
 
 ### İçerik Yönetimi
@@ -264,7 +264,7 @@ Admin panelinden her buton için:
     "youtubeOfflineMessage": "İyi ki canlı yayında değiliz. 😛",
     "kickOfflineMessage": "Şimdilik Kick'te değiliz. 😊"
   },
-  "adminPassword": "test123"
+  "adminPassword": "1234567"
 }
 ```
 
